@@ -56,7 +56,7 @@ remove_file "README"
 remove_file "public/index.html"
 remove_file "public/favicon.ico"
 remove_file "doc/README_FOR_APP"
-remove_file "public/images/rails"
+remove_file "public/images/rails.png"
 
 create_file "log/.gitkeep"
 create_file "tmp/.gitkeep"
