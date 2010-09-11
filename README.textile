@@ -1,0 +1,3 @@
+h1. Rails 3 Templates
+
+Quickly bootstrap a new Rails 3 app.
