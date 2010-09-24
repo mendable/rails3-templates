@@ -68,21 +68,21 @@ development:
   database: #{app_name}_development
   username: root
   password:
-  encoding: utf-8
+  encoding: utf8
 
 test:
   adapter: mysql
   database: #{app_name}_test
   username: root
   password:
-  encoding: utf-8
+  encoding: utf8
 
 production:
   adapter: mysql
   database: #{app_name}_production
   username: root
   password:
-  encoding: utf-8
+  encoding: utf8
 
 cucumber:
   <<: *test
